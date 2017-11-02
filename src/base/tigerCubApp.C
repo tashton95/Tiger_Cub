@@ -3,7 +3,7 @@
 #include "AppFactory.h"
 #include "ModulesApp.h"
 #include "MooseSyntax.h"
-#include "HeatConduction.h"
+
 #include "HfAlMaterial.h"
 #include "HfAlBulkMaterial.h"
 
